@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679637715057",
+    "project_id": "travel-app-firebase-ff",
+    "storage_bucket": "travel-app-firebase-ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679637715057:android:45b8115347dec412ff73d0",
+        "android_client_info": {
+          "package_name": "com.diasonus.travelfirebaseff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOQ2DHzqhxCRgE4MnkVGCTh0KvThumag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
