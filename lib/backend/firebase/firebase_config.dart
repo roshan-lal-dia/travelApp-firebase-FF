@@ -5,7 +5,7 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyCmAJ_y8cxLDJXDfgEZPZqBIDAlxxCbya0",
+            apiKey: "YourAPIKEy",
             authDomain: "travel-app-firebase-ff.firebaseapp.com",
             projectId: "travel-app-firebase-ff",
             storageBucket: "travel-app-firebase-ff.appspot.com",
